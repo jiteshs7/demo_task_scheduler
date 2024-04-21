@@ -1,4 +1,4 @@
-# React App Name
+# App Name
 
 Task Scheduler
 
