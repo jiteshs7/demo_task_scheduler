@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: aliceblue;
+  color: #000;
+  border-radius: 5px;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.icon {
+  margin-right: 1rem;
+  cursor: pointer;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin: 0.5rem 0;
+}

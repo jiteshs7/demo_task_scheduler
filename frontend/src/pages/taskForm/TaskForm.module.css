@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+.header {
+  text-align: start;
+  color: rgb(201, 148, 49);
+}
+
+.row {
+  display: flex;
+  align-items: center;
+}
+
+.checkboxContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  width: 15%;
+  text-align: left;
+  margin-bottom: 2rem;
+}
